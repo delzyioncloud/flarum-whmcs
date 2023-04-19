@@ -1,0 +1,11 @@
+delzyioncloud:
+  flarum-whmcs:
+    admin:
+      settings:
+        title: 'WHMCS Settings'
+        client_id: 'Client ID'
+        client_secret: 'Client Secret'
+        whmcs_url: 'WHMCS Installation URL'
+    forum:
+      button:
+        login: 'Log in with WHMCS'
