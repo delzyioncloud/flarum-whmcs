@@ -7,8 +7,7 @@
     "type": "flarum-extension",
     "license": "GPL-3.0-only",
     "require": {
-        "flarum/core": "^1.2.0",
-        "jumbojett/openid-connect-php": "^0.9.10"
+        "flarum/core": "^1.2.0"
     },
     "authors": [
         {
